@@ -5,6 +5,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <h1>ReCoders</h1>
+      <p>
+        Estudiando Git con bot2
+      </p>
     </div>
   )
 }
